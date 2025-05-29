@@ -44,7 +44,7 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
    "blocks": ["994", "91", "92"], // nomor auto block
    "pairing": {
       "state": true, // jika ingin code = true, jika ingin qr = false,
-      "number": 62857935892434 // ubah menjadi nomor bot
+      "number": 6285702438082 // ubah menjadi nomor bot
    },
    "replit_url": ""
 }
@@ -98,7 +98,7 @@ Connecting account without qr scan but using pairing code.
 {
    "pairing": {
       "state": true, // "true" if you want to use the pairing code
-      "number": 62xxxx // start number with country code
+      "number": 6285702438082 // start number with country code
    }
 }
 ```
